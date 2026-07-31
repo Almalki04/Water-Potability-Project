@@ -1,0 +1,42 @@
+Model Comparison Results
+==================================================
+
+Model: XGBoost
+Accuracy: 0.6646
+F1-Score: 0.4608
+Precision: 0.6184
+Recall: 0.3672
+------------------------------
+Model: Random Forest
+Accuracy: 0.6601
+F1-Score: 0.4053
+Precision: 0.6387
+Recall: 0.2969
+------------------------------
+Model: Decision Tree
+Accuracy: 0.6479
+F1-Score: 0.3565
+Precision: 0.6214
+Recall: 0.2500
+------------------------------
+Model: SVM
+Accuracy: 0.6235
+F1-Score: 0.4188
+Precision: 0.5266
+Recall: 0.3477
+------------------------------
+Model: KNN
+Accuracy: 0.6204
+F1-Score: 0.3852
+Precision: 0.5235
+Recall: 0.3047
+------------------------------
+Model: Logistic Regression
+Accuracy: 0.6098
+F1-Score: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+------------------------------
+
+Best Model: XGBoost
+Best Accuracy: 0.6646
